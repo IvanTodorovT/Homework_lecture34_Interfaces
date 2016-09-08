@@ -2,8 +2,6 @@
 
 namespace TripAdvisor;
 
-interface TripAdvisor{
-	
+interface TripAdvisor {
 	function rate(City $city);
-	
 }
